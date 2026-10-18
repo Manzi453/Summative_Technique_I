@@ -37,7 +37,7 @@ Swahili is widely spoken in East Africa, yet labelled data for sentiment analysi
 
 Primary metric: macro-F1. Also accuracy, weighted F1 (the shared-task metric), macro precision and recall. Bootstrap 95% confidence intervals (1,000 resamples) and paired bootstrap differences on the test set.
 
-For deployment the best validation run was exported to ONNX and int8-quantized so it runs on a free CPU server without PyTorch.
+The best validation run is saved to `models/best_sentiment` and served by the Streamlit app in `streamlit_app/` (PyTorch on the CPU).
 
 ## 4. Results
 
@@ -46,12 +46,11 @@ FILL: paste the table from `results/metrics_summary.csv` (accuracy, macro-F1 wit
 ## 5. Repository structure
 
 ```
-notebooks/            01 to 05, run in this order (Google Colab)
+notebooks/            01 to 04, run in this order (VS Code, using the project's .venv)
 data/processed/       train.csv, val.csv, test.csv
 figures/              EDA, training-curve figures
 results/              metrics_summary.csv, confusion matrices, errors, predictions, bootstrap tables
-streamlit_app/        the deployed app
-.streamlit/           theme configuration
+streamlit_app/        the Streamlit web app
 ```
 
 ## 6. How to reproduce
@@ -60,9 +59,8 @@ streamlit_app/        the deployed app
 2. `02_baseline_tfidf_logreg.ipynb` reference models and TF-IDF baseline.
 3. `03_bilstm.ipynb` BiLSTM, five seeds (GPU runtime).
 4. `04_finetune_african_models.ipynb` fine-tunes the two Transformers (GPU runtime), bootstrap comparison, uploads the best model to the Hugging Face Hub.
-5. `05_deploy_app.ipynb` ONNX export and quantization check, writes the app, pushes to GitHub.
 
-You need a GitHub token with `repo` scope, and for notebooks 4 and 5 a Hugging Face token with write access. Notebooks ask for tokens at run time and never store them.
+Notebook 4 asks for a Hugging Face token with write access at run time, only to upload the model.
 
 Run the app locally:
 
@@ -71,7 +69,7 @@ pip install -r streamlit_app/requirements.txt
 streamlit run streamlit_app/streamlit_app.py
 ```
 
-The app downloads the quantized model from the Hugging Face repo named in `streamlit_app/app_config.json`. Set the `MODEL_ID` environment variable to use another repo or a local folder.
+The app loads `models/best_sentiment` (saved by notebook 4). If that folder is missing it downloads the model from the Hugging Face repo recorded in `results/metrics/deployed_model.json`. Set the `MODEL_ID` environment variable to use another repo or a local folder.
 
 ## 7. Limitations
 
@@ -84,9 +82,9 @@ The app downloads the quantized model from the Hugging Face repo named in `strea
 
 ## 8. Existing resources and own work
 
-Existing resources: the AfriSenti dataset, the pretrained models `castorini/afriberta_base` and `Davlan/afro-xlmr-base`, and the libraries scikit-learn, PyTorch, Hugging Face Transformers and Tokenizers, ONNX Runtime and Streamlit.
+Existing resources: the AfriSenti dataset, the pretrained models `castorini/afriberta_base` and `Davlan/afro-xlmr-base`, and the libraries scikit-learn, PyTorch, Hugging Face Transformers and Tokenizers, and Streamlit.
 
-Implemented here: data checks and cleaning, reference and TF-IDF baselines, the BiLSTM, the multi-seed fine-tuning pipeline, bootstrap evaluation, error analysis, ONNX export and quantization check, and the web app with privacy and terms pages.
+Implemented here: data checks and cleaning, reference and TF-IDF baselines, the BiLSTM, the multi-seed fine-tuning pipeline, bootstrap evaluation, error analysis, and the Streamlit web app.
 
 ## 9. Use of AI tools
 
