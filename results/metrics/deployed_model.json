@@ -1,0 +1,7 @@
+{
+  "hf_repo_id": "453ivan/swahili-sentiment-afrisenti",
+  "val_f1": 0.5456949278567262,
+  "model": "AfroXLMR-base",
+  "seed": 1,
+  "hf_id": "Davlan/afro-xlmr-base"
+}

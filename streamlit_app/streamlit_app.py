@@ -31,9 +31,15 @@ def clean_text(text):
 
 
 def model_source():
-    """MODEL_ID if set, else the local folder from notebook 4, else the Hugging Face repo it was uploaded to."""
+    """MODEL_ID (environment variable or Streamlit secret), else the local folder from notebook 4,
+    else the Hugging Face repo recorded in deployed_model.json."""
     if os.environ.get("MODEL_ID"):
         return os.environ["MODEL_ID"]
+    try:
+        if st.secrets.get("MODEL_ID"):
+            return st.secrets["MODEL_ID"]
+    except Exception:  # no secrets file: normal when running locally
+        pass
     if (LOCAL_MODEL / "config.json").exists():
         return str(LOCAL_MODEL)
     if DEPLOYED_RECORD.exists():
@@ -89,9 +95,15 @@ st.caption("Paste a tweet in Swahili and the model says whether it sounds positi
 
 source = model_source()
 if source is None:
-    st.error("No model found. Run notebook 4 first (it saves models/best_sentiment), or set the MODEL_ID environment variable.")
+    st.error("No model found. Run notebook 4 (it saves models/best_sentiment), or point the app at a Hugging Face "
+             "model with the MODEL_ID setting or results/metrics/deployed_model.json.")
     st.stop()
-tokenizer, model, LABELS = load_model(source)
+try:
+    tokenizer, model, LABELS = load_model(source)
+except Exception as err:
+    st.error(f"Could not load the model from `{source}` ({type(err).__name__}). If this is a Hugging Face repo, "
+             "check that it is public and that model.safetensors, config.json and tokenizer.json were uploaded to it.")
+    st.stop()
 
 tab_classify, tab_results, tab_about = st.tabs(["Classify", "Model results", "About"])
 

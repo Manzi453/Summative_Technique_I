@@ -1,0 +1,4 @@
+[server]
+# Streamlit's file watcher walks every imported module; with transformers that floods the log with
+# harmless "torchvision" / "torch.classes" tracebacks. The app does not need auto-reload on save.
+fileWatcherType = "none"
