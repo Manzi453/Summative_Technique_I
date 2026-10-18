@@ -1,0 +1,6 @@
+group,n_tweets,n_negative,acc_TF-IDF + LogReg,acc_BiLSTM,acc_AfriBERTa-base,acc_AfroXLMR-base
+low (<=10% unseen words),159.0,4.0,0.6101,0.566,0.5849,0.5786
+middle (10-30%),388.0,51.0,0.5619,0.5438,0.5902,0.5412
+high (>=30%),201.0,25.0,0.592,0.5124,0.6567,0.5871
+"AfriBERTa-base minus TF-IDF accuracy: low group -0.026 [-0.113, +0.063]; high group +0.064 [+0.005, +0.129]; high minus low +0.090 [-0.017, +0.196]",,,,,,
+"AfroXLMR-base minus TF-IDF accuracy: low group -0.029 [-0.119, +0.063]; high group -0.005 [-0.085, +0.080]; high minus low +0.024 [-0.102, +0.147]",,,,,,

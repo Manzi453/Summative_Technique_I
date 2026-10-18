@@ -1,0 +1,13 @@
+model,class,precision,recall,f1,support
+TF-IDF + LogReg,negative,0.3922,0.25,0.3053,80
+TF-IDF + LogReg,neutral,0.6581,0.6937,0.6754,444
+TF-IDF + LogReg,positive,0.4629,0.4732,0.468,224
+BiLSTM,negative,0.225,0.45,0.3,80
+BiLSTM,neutral,0.6873,0.6239,0.6541,444
+BiLSTM,positive,0.4919,0.4062,0.445,224
+AfriBERTa-base,negative,0.5,0.5125,0.5062,80
+AfriBERTa-base,neutral,0.6737,0.7162,0.6943,444
+AfriBERTa-base,positive,0.4897,0.4241,0.4545,224
+AfroXLMR-base,negative,0.4492,0.6625,0.5354,80
+AfroXLMR-base,neutral,0.7003,0.5315,0.6044,444
+AfroXLMR-base,positive,0.4471,0.5848,0.5068,224

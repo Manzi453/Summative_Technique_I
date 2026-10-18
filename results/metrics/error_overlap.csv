@@ -1,0 +1,10 @@
+item,count,of_total_errors
+test tweets wrong in 0 of 4 models,207,
+test tweets wrong in 1 of 4 models,156,
+test tweets wrong in 2 of 4 models,142,
+test tweets wrong in 3 of 4 models,132,
+test tweets wrong in 4 of 4 models,111,
+TF-IDF + LogReg: errors that involve the neutral class,296,314.0
+BiLSTM: errors that involve the neutral class,293,344.0
+AfriBERTa-base: errors that involve the neutral class,280,294.0
+AfroXLMR-base: errors that involve the neutral class,309,328.0

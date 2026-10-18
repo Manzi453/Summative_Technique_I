@@ -1,0 +1,7 @@
+model_a,model_b,macro_f1_a,macro_f1_b,mean_diff_a_minus_b,ci_low,ci_high,interval_excludes_zero
+TF-IDF + LogReg,BiLSTM,0.4829,0.4664,0.0165,-0.0294,0.0579,False
+TF-IDF + LogReg,AfriBERTa-base,0.4829,0.5517,-0.068,-0.1191,-0.0139,True
+TF-IDF + LogReg,AfroXLMR-base,0.4829,0.5488,-0.0655,-0.1153,-0.0125,True
+BiLSTM,AfriBERTa-base,0.4664,0.5517,-0.0845,-0.1345,-0.0359,True
+BiLSTM,AfroXLMR-base,0.4664,0.5488,-0.082,-0.1284,-0.0378,True
+AfriBERTa-base,AfroXLMR-base,0.5517,0.5488,0.0025,-0.0432,0.0454,False
