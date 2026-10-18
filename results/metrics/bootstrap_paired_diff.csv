@@ -1,0 +1,4 @@
+versus,mean_diff,ci_low,ci_high,clearly_better
+TF-IDF + LogReg,0.068,0.0139,0.1191,True
+BiLSTM,0.0845,0.0359,0.1345,True
+AfroXLMR-base,0.0025,-0.0432,0.0454,False
