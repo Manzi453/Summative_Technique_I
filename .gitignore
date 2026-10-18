@@ -1,0 +1,26 @@
+# Python
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Secrets (notebooks ask for tokens at run time; keep any local copies out of git)
+.env
+.streamlit/secrets.toml
+
+# Model weights and exports: large, and the model lives on the Hugging Face Hub
+models/
+onnx_out/
+*.onnx
+*.safetensors
+*.pt
+*.pth
+*.bin
+
+# OS and editor files (.vscode/ is tracked on purpose)
+.DS_Store
+.idea/
+
+# Word lock files from the report drafts
+~$*
