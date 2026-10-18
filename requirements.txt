@@ -1,0 +1,30 @@
+# Swahili Tweet Sentiment Classification: libraries for notebooks 01 to 05
+# Install with: pip install -r requirements.txt
+# The notebooks were written for Google Colab, which already ships most of these.
+
+# Data handling and plotting (01 to 05)
+numpy
+pandas
+scipy
+matplotlib
+pillow
+
+# Baselines: TF-IDF + Logistic Regression, reference models, metrics (01, 02)
+scikit-learn
+
+# BiLSTM and fine-tuning (03, 04)
+torch
+transformers
+sentencepiece
+protobuf
+tokenizers
+huggingface_hub
+
+# ONNX export, int8 quantization and the deployed app (05)
+onnx
+onnxruntime
+streamlit
+
+# Running the notebooks locally
+ipykernel
+jupyter
