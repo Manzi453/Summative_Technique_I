@@ -1,0 +1,345 @@
+id,text,label,pred_name
+sw_test_00001,   Ulitaka kujua siasa hzi za democrazy nawaomba musome kitabu kinachoitwa The Prince by Machiavelli Ndio,positive,neutral
+sw_test_00002,Chama chenye sera kali za mrengo wa kulia ambacho kimefanya kampeni kwa kutumia jukwaa la kupinga wahamiaji kimepata kura nyingi katika uchaguzi mkuu uliofanyika jana nchini Sweden Soma zaidi gtgt,neutral,negative
+sw_test_00003,   Mwaka mmoja wa Rais Magufuli na mkwamo wa elimu yetu,negative,positive
+sw_test_00005,Watu wengine hawatakupenda hata ufanye nini na watu wengine hawataacha kukupenda hata ufanye nini Nenda mahali penye upendo,positive,neutral
+sw_test_00006, Hata kama ukiwa mjanja wa kila jambo huwezi kwepa usingizi na kifo,positive,neutral
+sw_test_00010,   airphone mwenda alikuwa hasikilizi mtu skeletoni muhusika kwenye picha ni marehem grass ya damu kuna,neutral,negative
+sw_test_00011,Mwenyekiti wa Jumuiya za Tawala za Mikoa ALAT Gulamhafeez Mukadamu kulia akipokea mfano wa hundi ya Sh milioni 100 kutoka kwa Meneja wa NMB Kanda ya Kati  Nsolo Mlozi kama udhamini wa mkutano Mkuu wa Mwaka wa ALAT unaotarajiwa kufanyika kuanzia wiki ijayo Jijini Dodoma,neutral,negative
+sw_test_00012,Tafadhali tunaomba namba uliyofanya swap na namba mpya kwa msaada zaidiSuzy,positive,neutral
+sw_test_00014,   Shangazi yake Bashite Prof Ndalichako huo uprofesa aliupataje Alifundisha kabisa Chuo Kikuu Halafu chuo kikuu wahitimu wan,neutral,negative
+sw_test_00015,   Karibu sana kwenye banda la ambapo utakutana na wataalam wa uchechemuzi wa maswala ya sekta ya uziduaji W,neutral,positive
+sw_test_00019,Wasanii mnaleta trafficme siwahafikinyie wanafikinawameza ka meli Atlantichajaelewa nini sasa,negative,neutral
+sw_test_00020,Swali zuri sana Nawatafuta wajuzi wa mambo watuambie,neutral,positive
+sw_test_00023,   Dar to Kigoma ni Karibu ila sasa Kigoma to Dar ni mbali aiseeafu tren sasaumelipa Go and Return,neutral,positive
+sw_test_00026,   Mashambulizi yazidi huko Gaza huku raia wawili wa Israel wakiuawa nao Wapalestina kadhaa kujeruhiwa,negative,neutral
+sw_test_00028,Nimeulizia Sua mna matrekta mangapi nikaambiwa mengi yalikufa nimemuuliza makamu mkuu wa chuo amesema amefufua 4 Mimi nitawaongezea matrekta mengine 10 Nataka dhamira ya baba wa taifa kuanzisha chuo hiki itekelezwe kwa vitendo sio maneno tuu,positive,negative
+sw_test_00029,Kufungua akaunti ya akiba inabidi ufike tawini ukiwa na barua ya utambulisho kutoka kwa afisa mtendaji kivuli cha kitambulisho chako picha 2 ndogo zenye kivuli cha bluu na kianzio cha 50000 Lini utakuwa tayari,neutral,positive
+sw_test_00031, Mkutano wa 16 wa wadau wa Pamba mkoani Mwanza kujadili maendeleo changamoto fursa na mikakati ya kukuza maendeleo ya zao la pamba nchini,neutral,negative
+sw_test_00032,Namba hii imesajiliwa kwa jina la PAULINE MKUNGU tarehe 2252017 kwa namba zote mpya hazisomi hadi zisajiliwe kwa alama ya vidole ila namba za zamani zitaendelea kusoma na wateja wamepewa muda hadi 30 December,neutral,negative
+sw_test_00033,Kutokujali afya yako ni ubinafsi wa hali ya juukabla hujafanya maamuzi ya kufanya mapenzi bila kondomu na mtu ambae hamjapima afya zenu fikiria wangapi wanakutegemea nyuma yako,neutral,negative
+sw_test_00034,   Nataka kuongea hapa na Rais wetu aliyopo Ikulu anayeitwa kupitia tweets tatu Wana mmelala Can i speak,positive,neutral
+sw_test_00035,Vijana waliohitimu mafunzo ya Jeshi la akiba Mgambo wilayani Geita wameiomba Serikali kuwapa kipaumbele katika fursa za ajira za ulinzi zinazojitokeza Mkuu wa Wilaya ya Geita Herman Kapufi alikuwa Mgeni rasmi katika Hafla hiyo,neutral,positive
+sw_test_00037,Tunapenda kukufahamisha kwamba tulikuwa na maboresho upande wa tigo pesa lakini huduma za tigo pesa zimerejeshwa tayari unaweza ukatumia huduma kama kawaida,positive,neutral
+sw_test_00039,Vizuri sanaSasa na sisi ndo tunajifunza kwa kutegemea lugha ambayo sio yetu kwa maana ndo ina kila kitu,neutral,positive
+sw_test_00041,   Matajiri wanakuwa masikini masikini wanakuwa matajiri wanyonge wa jana leo ndio wenye nguvu Sayari zinazunguka m,neutral,negative
+sw_test_00043,Kutengeneza urafiki Fahamu kuwa watu wanaitaji kujifunza na kufurahi hapa twitter hivo basi unapoitaji kutweet kitu katika Timeline yako na unaitaji watu wavutiwe nayo hakikisha inakuwa inatoa thamanivalue kwa watu wako Zingatia pia vitu vifuatavyo ,positive,neutral
+sw_test_00044,   Vile Raisi wa Wapwa akichunguza Baraza lake la Mawaziri CC Waziri Mkuu ,neutral,positive
+sw_test_00045,Chukua chako mapema Ngoja ngoja ya nini wakati umeshashinda Cheza ulipwe Papo Hapo baada ya mechi kuisha,positive,neutral
+sw_test_00047,   Wakati Mungu Akiendelea Kufanya Kila Jambo Kuwa Jepesi Kwetu Tusiache Kumshukuru Na Kumuamini Yeye Kila Wakati,positive,neutral
+sw_test_00048,umelipia tarehe gani ndugu mteja au tunaomba jina kamili ambalo umetumia kuomba umeme,positive,neutral
+sw_test_00049,Peter Sarme tunapenda kukufahamisha kwamba wewe ni mteja wa malipo ya baada na umesitishwa kutokana na kuchelewa kulipa huduma yako tunaomba ufanye malipo yako ili uweze kupatiwa huduma kama kawaidi tafadhali,negative,neutral
+sw_test_00054,Wachezaji wetu ambao leo wakuwa dimbani,neutral,positive
+sw_test_00057,   Zabuni za ujenzi wa hoteli ya nyota 4 na maeneo ya biashara kwenye jengo la 3 la abiria JNIA JNIATBIII jijini Dar es sala,neutral,negative
+sw_test_00063,   Tanzania inasema tupo vizuri lakini kiuhalisia hali ni mbaya pesa za Corona takribani TZS 154 Bilioni zilizokusanyw,negative,neutral
+sw_test_00064,Februari 14 kila mwaka mataifa mengi duniani huadhimisha siku ya wapendanao,neutral,negative
+sw_test_00067,   leo unakuja na swali kwa wanahabari Nadharia inaonyesha kuwa wanahabari wanawake ni wengi katika vyumba vya,neutral,positive
+sw_test_00069,Je wajua Kubusukissing hutoa Oxytocian kwenye ubongo homoni ambayo inaimarisha uhusiano wa kihemko kati ya watu wawili ili kuongeza furaha katika maisha yao Lets kiss each other,positive,neutral
+sw_test_00070,   Tulisikia kilio chake tukamhudumia  sasa anatembea vizuri baada ya kumfanyia upasuaji mkubwa wa Nyonga Sasa anaweza,positive,neutral
+sw_test_00074,Habari tunashukuru kutuandikia kuhusu suala hili tutalifanyia kaziJuma,neutral,negative
+sw_test_00075,   Maandalizi Wadau kutoka Kamati ya Maandalizi wajadili tukio kubwa la sekta hii mwaka huu Wakutana na waha,neutral,positive
+sw_test_00077,   Katibu Mkuu wa chama tawala Kenya Jubilee Raphael Tuju amepata ajali katika eneo la Magina barabara kuu ya Nakuru N,negative,neutral
+sw_test_00080,Tafadhali tufahamishe namba yako ya simu ambayo tunaweza kuwasiliana na wewe kwa taarifa zaidi Tunaomba namba hiyo kupitia DM link,positive,neutral
+sw_test_00083,hassan tunaomba tufahamishe kifurushi chako ulijiunga lini,neutral,positive
+sw_test_00084,Nickson Karibu Zantel ufurahie huduma n bidhaa kwa gharama nafuu zaidi,positive,neutral
+sw_test_00085,Mbona umetag mimi hao wadada hujawatag,neutral,negative
+sw_test_00086,Je wajua Kuwa Simba baada ya kumuwinda swala na kugundua kuwa swala aliemkamata ni mjamzito kwanza anamtoa mtoto tumboni na anajaribu kumtikisa kidogo ili awe katika hali yake ya uzima Baada ya hapo simba hupoteza hamu kabisa ya kumla huyo swala aliemuwinda,neutral,negative
+sw_test_00089,Habari tunaomba namba yako kwa msaada zaidiKA,positive,neutral
+sw_test_00093,TAFITIUtafiti uliofanywa hivi karibuni umegundua vile unatumia zaidi vyakula na vinywaji vyenye sukari ndivyo unavyoongeza hatari ya kufa haraka Tiba Fasta 2018,negative,neutral
+sw_test_00096,Wizara kushirikiana na mejimenti ya Utumishi imefanikisha zoezi la kuwasajili na kuwahakiki watumishi wa umma 507026,neutral,positive
+sw_test_00097,Habari  tunaomba kufahamu changamotomaswali au maoni kupitia mtandao wetu wa Tigo tukuhudumie,neutral,positive
+sw_test_00099,Elimu kuhusu Teknolojia Bora ya Uchenjuaji Madini isiyotumia Zebaki imetolewa Mkoani Geita kwa Wachimbaji Wadogo wa Madini,neutral,positive
+sw_test_00100,   Itakapotungwa sheria ya Wazee tutaweka kipengele cha kuwataka Jamii na ndugu kuwa na w,neutral,negative
+sw_test_00104,Vile vile vodacom tuna vifurushi vingi sana kuna vya siku wiki na mwezi ambapo mteja atajiunga kifurushi anachohitaji sawa na matumizi yake au sawa na salio alilonalo kwenye simu yake,positive,neutral
+sw_test_00106,   Kipindi nimerudi nyumbani Tabora nilifikia kwa baba mzazi japo walikwisha tengana na mama Nakumbuka mama aliniambia yule,neutral,positive
+sw_test_00109,   UTAFITI Ulaji wa mboga za majani amp matunda husaidia mishipa ya damu inayopita shingoni kwenda ubongo kufanya kazi vizuri na,positive,neutral
+sw_test_00110,Ahsante kwa kutembelea ukurasa wetu Tumia Ezypesa ushinde,neutral,positive
+sw_test_00113,Unadhani nani atampiga mwenzie maBAO ya kutosha ndani ya dakika 90 Pata dakika za kuongea mitandao yote au Zantel kwenda Zantel na GB 1 ya kuperuzi mtandaoni bila kikomo cha MUDA ukiwa na tsh1000 tu Jiunge na BAO piga 14915,positive,neutral
+sw_test_00114,   Poor drug adherence inafelisha sana watu wenye HIV amka Kunywa dawa kama ulivyoelekezwa na wataalamu,neutral,negative
+sw_test_00116,   Dokta akiongea na Husna Mikidadi binti mwenye ualbino wakati akimalizia mkutano wake Mtwara jana jioni http,positive,neutral
+sw_test_00118,Kikosi cha leo dhidi ya Kagera Sugar,neutral,negative
+sw_test_00119,Haki ya Mungundo maana mwanangu mkubwa akisemaga anataka kuwa dokta nafurahiakatumize ndoto yangu,neutral,negative
+sw_test_00123,Tafadhali tunaomba kufahamu unapata changamoto ipi kwa msaada zaidi gt BM,positive,neutral
+sw_test_00124,Wachimbaji wa Madini ya aina ya Rubi wilayani Gairo wametimua mbio na kutelekeza madini ya viwandani aina ya Rubi Nut pikipiki na vifaa vya uchimbaji baada ya kuona msafara wa Mwenyekiti,neutral,negative
+sw_test_00126,   Waziri asikitishwa amp utendaji wa Bodi amp Menejimenti ya kwa kutofanya maamuzi kwa wakati amp kusem,negative,positive
+sw_test_00127,    Waathirika duniani karibu 100000  Vifo karibu 3000  Ugonjwa umefika nchi 50  Afrika ni Misri N,negative,positive
+sw_test_00129,   City center ofice ni mtu aliposimama hata mhuri wa ikulu unapata haina gharama ngoma inakua nzito mn,neutral,negative
+sw_test_00130,Tumepokea taarifa yako nasi tunafanyiakazi tutawasiliana na wewe hivi punde EC,neutral,positive
+sw_test_00131,UTUMIAJI WA P2 ULIOPITILIZA utapelekea Kuzoofisha ukuta wa tumbo na kuharibu mji wa mimba sababu hii inaweza kupelekea Kutoweza kushika UJAUZITO huko Mbeleni FinallyTumia njia ya Uzazi wa mpango ulio mzuri kwa afya Epuka kujamiana bila kinga kama ujaoa Uoe,negative,neutral
+sw_test_00133,   Kweli kabisa ujakosea Tutapotea km kuku porini,negative,neutral
+sw_test_00135,kufanikiwa huna haja ya uso mzuri na mwili wa kishujaa lakini unahitaji akili ya ustadi na uwezo wa kutenda,positive,neutral
+sw_test_00136,kama kawa matokeo alioyapata jana ndio atakayokuja kuyapata leo mtakuja kunambia,neutral,negative
+sw_test_00137,   Lengo la MTAKUWWA kupunguza ndoa za utotoni kutoka asilimia 47 hadi 10  ,neutral,positive
+sw_test_00139,   Utabiri wa Hali ya Hewa wa saa 24 zijazo kuanzia saa 3 usiku wa leo tarehe 27062018,neutral,positive
+sw_test_00141,   Neno connection limejipatia umaarufu katika siku za hivi karibuni hasa kila mara inapotokea picha au video za uchi zi,negative,neutral
+sw_test_00144,   Mwaka 2005 nilihitimu chuo cha ualimu Kabanga kilichopo mkoani Kigoma Sikukaa muda mrefu mtaani mwaka 2006 nilifanikiwa,positive,negative
+sw_test_00147,WAZIRI MPINA NITALAANIWA,negative,positive
+sw_test_00150,Ndo maana katika Dini ya kiislam katika Quran Takatifu Surat alaq 961Soma kwa jina la Mola wako aliyeumba 963Soma Na Mola wako ni Karimu zaidi 964Ambaye amefundisha kwa kalamu 965Amemfundisha mtu aliyokuwa hayajui,neutral,positive
+sw_test_00155,KOMESHA UKATILI Kwenye vyombo vya usafiri wa umma,positive,negative
+sw_test_00157,Vigezo vya kufungua akaunti ya Akibabarua ya utambulisho kutoka serikali za mtaaPicha mbili passport size 22 zenye ukutakitambaa cheupe nyuma kitambulisho kimoja wapo kati ya cha kuraleseni ya uderevapasi ya kusafiria au cha taifa na TZS,positive,neutral
+sw_test_00159,   Nimeandika sikitiko langu juu ya kuonewa kubezwa na kukandamizwa walimu na ualimu Kama isingekuwa mwalimu Magufuli as,negative,neutral
+sw_test_00161,   Demokrasia ni kupishana mitazamoas u did enzi za JPMKuna wanaosifia na wanaokosoaMarekani kuandamana sio kosa Tuesh,neutral,negative
+sw_test_00169,   Kitu kipya kbs nimeingiza kwa ubongo yangu Thnx ver much br,positive,neutral
+sw_test_00170,Mseng yulena nikimiliki bastola naanza nae kumtoa ukilemaalitaka nipotelee jela kifala,negative,neutral
+sw_test_00171, Haya ndiyo maisha niliyokulia in case I dont match your standards,positive,neutral
+sw_test_00173,Wajanja wote waliopata chanjo ya Uviko 19 wanakiri kupata kero ndogo ndogo siku za mwanzoni kama homa na kuumwa kichwa Tofauti na hapo mambo ni burudani kama kusukuma mlevi kwenye mteremko,negative,neutral
+sw_test_00179,Wanafunzi wa Shule ya Sekondari Walla ya wilayani Kwimba mkoani Mwanza wakibeba baadhi ya viti na meza zake 184 ili kuvipeleka darasani baada ya kukabidhiwa kwaajili ya shule hiyo na Shule ya Sekondari Sumve ambapo vina thamani ya Sh 10 Milioni,positive,negative
+sw_test_00185,   Baada ya kusubiria sana hatimaye sasa imebakia siku moja watu wa Arusha mle minyamanyama uku mkipata burudani kadhaa,neutral,negative
+sw_test_00189,Karibu sana Weka vocha mara nyingi uwezavyo ujipatie nafasi ya kushinda simu za 4G pesa kirikuu boda na nyingine wajulishe na wengine,neutral,positive
+sw_test_00190,Ni lazima kuelewa kazi ya PESA kwa maana hiyo Kampuni ni Gari na Pesa ni mafuta na hauwezi kufanya chochote bila pesa  Mwandishi wa Vitabu na Muhamasishaji,neutral,positive
+sw_test_00191,Habari karibu katika ukurasa wetuTunaomba utujulishe endapo unapata changamoto yoyote unapotumia huduma zetu,positive,negative
+sw_test_00193,Klabu ya Simba imetozwa faini ya milioni tatu kwa kuingia uwanjani wakitumia mlango usio rasmi lakini vilevile kutotumia njia maalum iliyowekwa kwa ajili ya kuingia kwenye eneo la kuchezea Adhabu imetolewa kwa kuzingatia Kanuni ya 14 49 ya Ligi Kuu kuhusu Taratibu za Mchezo,negative,neutral
+sw_test_00195,   Baada ya hafla ya bomba la mafuta lunch na Mzee Kinana our esteemed CCM SG at Capuccino my favourite local joint near Tan,positive,neutral
+sw_test_00196,Asante kwa taarifa tunaweza kupata namba ya simu au namba taarifa,positive,neutral
+sw_test_00199,Huwezi kurudi nyuma na kubadilisha mwanzo lakini unaweza kuanza hapo ulipo na kubadilisha mwisho,positive,neutral
+sw_test_00200,Mimi ni mama na nina wajukuu Nilianza kuuza mitumba mwaka 1991 kwa mtaji wa elfu ishirini Baada ya hapo,neutral,negative
+sw_test_00201,   Mmomonyoko wa maadili uliochangia ongezeko la wanaume wakware katika jamii unasababisha watoto wa kike kukosa elimu W,neutral,negative
+sw_test_00202,Icho kipara ni cha youth,neutral,negative
+sw_test_00203,Ukisikia jaza ujazwe ndio hiii umetoka kuchoma chanjo ya kirusi cha Corona marapaap Kirusi cha Delta hichodaaah,neutral,negative
+sw_test_00204,adamu mzinga pamoja sana tigo live itlove it,neutral,positive
+sw_test_00205,   Rais Mstaafu wa Awamu ya 3 Benjamin Mkapa amesema moja ya viunzi alivyofanikiwa kuruka katika uongozi wake ni kile cha k,positive,neutral
+sw_test_00207,   Kamwe usitembee na mke wa rafiki yako kwani unajiweka kwenye kifo,positive,neutral
+sw_test_00211,TAARIFA KWA VYOMBO VYA HABARI,neutral,positive
+sw_test_00214,Waziri Wa Afya Maendeleo ya Jamii Jinsia Wazee na Watoto Ummy Mwalimu amekagua utoaji Huduma za Afya katika Hospitali Teule ya Rufaa ya Mkoa wa Njombe na kubaini,neutral,positive
+sw_test_00215,Inakuwaje tunachangia hela ya vitabu kila mwaka na vitabu hawapewi hata vije viwasaidie wadogo zao vinabaki shulekweli ni kiherehere chetu ila mnatuumiza,neutral,negative
+sw_test_00216,Huwa inauma aisee upost kitu ucpate like Wala comments Unahis Kama ujumbe ujafika Hio ndo changmoto aisee But lengo ni ufurah na ujumbe ufike Kwanza nkimlza kuandika najilike mwenyewe,negative,neutral
+sw_test_00219,Kitu cha kujifunza zaid ili uweze kupata 1000 followers jihusishe sana na watu wenye account zenye followers wengi Kama na wengineo dFollow account kubwa na ndogo Retweet content zaofollow them wacheki DM,neutral,positive
+sw_test_00220,Ambindwile JrTunapenda kukujulisha kuwa huduma ya voicemail utajiunganisha kwa kuandika katika uwanja wako wa message Voicemail kwenda namba 15905,neutral,negative
+sw_test_00221,   Mubashara Fuatilia matangazo ya moja kwa moja Siku ya kwanza ya Mkutano wa kwanza wakimataifa wa Uwekezaji katika Sekt,positive,neutral
+sw_test_00222,   Utabiri wa hali ya hewa wa saa 24 zijazo kuanzia saa 3 usiku wa leo 01072018 kama unavyoletwa kwenu na,neutral,positive
+sw_test_00223,aka ipo kwa hewa na anakusababishia mchanganyiko wa midundo ya ndani na nje,neutral,positive
+sw_test_00228,   EazzyFX inakupa uwezo wa kujihudumia kubadili fedha za kigeni popote ulipo bila kufika kwenye matawi yetu Tembelea tovut,neutral,positive
+sw_test_00235, Netherland England UEFA Nations League Timu hizi zimekutana mara 33 England akishinda 14 Netherland 9 na sare 10 Nani ataungana na Portugal kwenye fainali  Bet uingie kwenye droo ya kushinda safari ya Nairobi,positive,neutral
+sw_test_00237,   Kwa sasa waziri kivuli wa madini ni Mb nimekwisha mwelekeza kuhusu kampuni ya Twiga kwasababu kulipiti,neutral,positive
+sw_test_00243,   Mahala pa kazi unapaswa kupafurahia badala ya kujutia kuwepo hapo Hupaswi kunyanyaswa kazini iwe kuonewakutukanwakuombwa r,positive,neutral
+sw_test_00247,Mbio za Mwenge wa Uhuru hutumika kufanya tathmini ya miradi mbalimbali ya maendeleo na fedha zinazotumika kutekeleza miradi hiyo,positive,negative
+sw_test_00250,   Njia bora ya kutangaza biashara ni kumridhisha mteja usifikirie kuhusu radio wala Instagram mridhishe mteja,positive,neutral
+sw_test_00251,Kwamba acha kunyonya maziwa ya mama yale ni ya mtoto wako Acha kabisa,neutral,negative
+sw_test_00253,   SEKINI Ni aina ya unyoaji wa nywele kwa kuacha nywele nyingi katikati na kuzipunguza sana za chini,neutral,positive
+sw_test_00254,   Matunda 7 muhimu kwa mjamzito 1 Machungwa 2 Maembe 3 Parachichi 4 Ndimu 5 Ndizi 6 Tufaha 7 Berries Cc,positive,neutral
+sw_test_00256,Hatuna watu wakufanya mchakato huo sahivihili suala lina siasa ndani yaketuiboreshe tu hii tuliyonayo kwanza coz hata yenyewe imetushinda na vitu vyote vipo Imagine ndo tuanze vyetu vipya vya kiswahili,neutral,negative
+sw_test_00258,Hongera naamini mtasaidia kuzuia mfumuko wa bei sokoni,positive,neutral
+sw_test_00259,Habari asante kwa kutembelea ukurasa wetu unahitajika kutembelea kwenye ATM mashine ukiwa na kadi yako na uweze kusajili namba unayohitaji kuitumia sasa Unahitajika kuwa na kadi ya ATM kuweza kujisajili karibuTL,positive,neutral
+sw_test_00261,   42 ya biashara zinazofanikiwa huwa wanapatia TIMING yani wanapatia MUDA sahihi wa kuanza au kufanya jambo TIMING haipo kw,positive,negative
+sw_test_00262,Kamanda wa Polisi kanda maalum ya Dar es salaam Lazaro Mambosasa amesema Jeshi la polisi limejipanga vyema kuhakikisha suala la Usalama linazingatiwa katika uchaguzi mdogo wa ubunge katika Jimbo la Ukonga unaotarajiwa kufanyika Jumapili Septemba 16 2018,positive,negative
+sw_test_00264,Bwana weena wimbo naupenda unaitwa Calvary kama sijakoseajana nimedoulonidiwamapenzi raha aisee,positive,neutral
+sw_test_00269,   Kila mtoto katika mazingira ya shule anatakiwa kuwa salama na uwezo wa kushiriki katika mafunzo bila kuwa na hofu ya ukatili,neutral,positive
+sw_test_00273,Kama mtu ni mtani wako ina maana mnaijua mipaka yenuhamtofikia sehemu mvunjiane heshima,neutral,negative
+sw_test_00274,Maishani watu Wanakuja na kuondoka ila wale watu sahihi na wanaojua thamani yako watabaki haijalishi una mapungufu kiasi gani,positive,negative
+sw_test_00275,   Tangazo Mjadala wa Artificial Intelligence AI katika Chuo Kikuu cha Dar Es Salaam Januari 31 2020 Eneo Kampasi,positive,negative
+sw_test_00277,   Kuna wimbi la vijana kuendekeza starehe zaidi na kushindwa kuwekeza kwenye kazina mipango mingine ya maendeleo Je kuna a,neutral,negative
+sw_test_00278,   Kama unataka kufanya biashara katika karne hii ya 21 ni matumizi ya Teknolojia ukiogopa huwezi kuongoza soko wala kung,positive,neutral
+sw_test_00280,   Utabiri wa Hali ya Hewa wa saa 24 zijazo kuanzia saa 3 usiku wa leo 02042019 Unaletwa kwenu na Mariana Materu,neutral,positive
+sw_test_00281,Kwa sasa ni tawi lingine tu la ccm kama mengine period wanafki tu,negative,neutral
+sw_test_00283,   Tutasema mengi ila wako serious sanahebu ona hii collabo aisee ona mwenyewe,positive,negative
+sw_test_00288,   Nimepata nafasi ya kufanya mazungumzo na kupitia askofutza tukielekea mwaka mmoja tangu tumpoteze mwenzetu,neutral,positive
+sw_test_00291,   Hatima yako itakuaje ni wewe mwenyewe ni kufanya maamuzi ili hatima yako isije ikawa mbaya hapo mbeleni usisubiri miujiza,positive,neutral
+sw_test_00293,Moshi Hivi sasa tuko katika uboreshaji wa mfumo wa usambazaji wa huduma na bidhaa zetu ili wateja Wetu wapate huduma bora zaidi Zoezi likikamilika tutatoa mawasiliano ya mawakala Wetu Tunaomba radhi kwa usumbufu unaojitokeza,neutral,negative
+sw_test_00296,Kuna watu unaona kabisa kaibiwakuna wengine unaona kabisa hapana huyu binti alideserve more,neutral,negative
+sw_test_00303,   Mchango wao naukumbuka daima Madaktar pamoja na jopo zima linalohusiana na uokoaji wa maisha yetu,neutral,positive
+sw_test_00306,   Rais Dkt akiwa na Mkewe Mama Janeth Magufuli Mbunge wa Mtwara Vijijini Hawa Ghasia na Viongozi mbalim,neutral,positive
+sw_test_00307,Habari tafadhali tunaomba utufahamishe ni kirufushi gani cha ofa ambacho kwako hakipo na kifurushi hicho hua ulikua ukijiunga upande wa saizi yako siku wiki mwezi au halichachi,neutral,positive
+sw_test_00308,Ndege haipo bhaname daraja ndo linaniumatulikuwaga tunakaa mwisho kabisa kula jinai,neutral,negative
+sw_test_00309,   na ninataka kuwakumbusha Paul Makonda kawa designated Human Rights Abuser kwa vitendo vya,negative,neutral
+sw_test_00310,   wapendwa kuna opportunities nyingi sana kwenye haya mashirika hela za kuanzisha projects mpya au innovations zipo ila sa,neutral,positive
+sw_test_00311,   Dini yangu inaniambia nisifanye wala nisiikaribie zinaa halafu ukizingatia unapopata mwenza wako ambaye mnaendana usiogope,positive,neutral
+sw_test_00313,Tafadhali fahamu hiyo ndiyo orodha ya matawi yanayofunguliwa kwa siku za sikukuu na jumapilink,positive,neutral
+sw_test_00317,Wakati tunaendelea kuchukua hatua mbalimbali za kujilinda na janga la Uviko 19 tusisahau ushauri wa Wataalamu wa afya wao kwa kauli moja wanasema,positive,neutral
+sw_test_00321, Acha kuongea juu ya shida Unazo Kumbana Nazona anza kufikiria suluhisho tu,positive,neutral
+sw_test_00322,UHURU MICHEZOWamiriki wa Klabu ya Manchester City wapo mbioni kununua Klabu nyingine nchini India Hayo yamesemwa na Mkurugenzi Mkuu wa Klabu hiyo Ferran Soriano,neutral,negative
+sw_test_00323, Maisha hayatakuwa ya haki kila wakatiLakini maisha yatakufundisha kila kitu kilicho bora kwako,neutral,negative
+sw_test_00324,   1 Anajua kujitetea mpaka anaonekana hajakosea 2 Anakubali kutenda jambo ila kwa shingo upande 3 Ukimpa si,neutral,negative
+sw_test_00330,   1Jina langu 2Bongo DSM 3Zari la mentari 4Msinitenge 5Nikusaidiaje,positive,negative
+sw_test_00332,Makonda Akina nani wanaotukwamisha via,positive,neutral
+sw_test_00334,   Mi nilijua kuwa unaakili kukbe nawe bwege tu Uchumi wetu haujashuka na ni moja kati ya uchum,negative,neutral
+sw_test_00337,Eeeh mchezo wa kuloweka sio mzuri jamaa fanya vurugu mechi ila usiache zanaa,positive,neutral
+sw_test_00338,c iliweka historia kuwa timu ya kwanza kutoka LaLiga kucheza Tanzania pale ilipowavaa wekundu wa Msimbazi a Tazama mambo yalivyokuwa,positive,neutral
+sw_test_00339,   nilikua nahangaika kupata mafundi rafiki yangu akaniambia kuhusu fixchap  Aisee wana mafundi wa kila aina na bei zao ni nz,positive,negative
+sw_test_00342,kibaya sana hiki kizazi,negative,positive
+sw_test_00344,   Dadaetu anauza daladala yake anataka 27M ana shida na hela Civilian flani hivi iko safi sana Six Cylinder bg42 ago e,neutral,negative
+sw_test_00346,   Makete Hali ya baridi na barafu imezidi kuwa tete Makete mazao yamenyaushwa na baridi kali They need alternative crops,negative,neutral
+sw_test_00347,   Kwa mujibu wa Sheria ya Makosa ya Kujamiiana Sospa ya Mwaka 1998 mwanaume yeyote anachukuliwa kuwa amebaka endapo p,positive,neutral
+sw_test_00348,usinichekeshe Nakua nimetumwa na kijiji,neutral,negative
+sw_test_00350,Meli ya Mafuta ya Iran yashambuliwa Saudia Soma zaidi gtgt,negative,neutral
+sw_test_00351,   Usilolijua usilibebee kifua litakutoa damu za pua,neutral,negative
+sw_test_00353,   Ushirikiswaji wa wanawake katika uongozi na Umiliki wa rasilimali Mjadala huu utakua kesho karibu tujadili pamoja,neutral,positive
+sw_test_00357,Shilole AKA Shishi Baby kuhusu UkatiliUnyanyasaji Mtandaoni,negative,neutral
+sw_test_00358,1 Bonyeza kitufe cha POWER kupitia rimoti yako 2 Shikilia P kupitia kisimbuzi chako hadi neno CODE litakapotokea kwenye luninga yako,positive,neutral
+sw_test_00361,Sema ndo upate watu wenye uwezo wa kutengeneza content nzuri la sivyo manyoyaniliwahi kupewa kazi nikaifanya hadi nikaimaliza watu hawajui,neutral,negative
+sw_test_00363,   Mzee baba nakukubali sema hili linaweza likawa na ukweli,positive,negative
+sw_test_00364,   Viva demokrasia VIVA Viva haki ya kikatiba ya kuishi VIVA VIVA HAKI NA UTU WA MTANZANIA VIVA Umoja ni nguvu Wajitenga,neutral,negative
+sw_test_00369,Never nkunguu kwa sasa tunalifanyia kazi hilo ili kuongeza vituo vya huduma zetu za usambazaji tafadhali endelea kusubiri tutatoa muongozo,neutral,negative
+sw_test_00370,Habari umetuma kutoka namba ganiJuma,positive,neutral
+sw_test_00371,Habari Kubota tafadhali tuandimie namba yako ya simu inbox kwa msaada zaidi,positive,neutral
+sw_test_00373,   Kipindi nipo chuo Dar es salaam nilikuwa kwenye mahusiano na msichana mmoja wa huku nyumbani Tulikuwa tunapendana sana,positive,neutral
+sw_test_00374,Hadi chuo ilivujahadi interview zilivujahadi madili yanazidi vujavipi kwako hakuvuji,neutral,negative
+sw_test_00377,Habari Ahsante kwa kuwasiliana nasi Pole sana kwa tatizo na ahsante kwa ushauri wako mzuri naomba nikutoe hofu tu tutaufanyia kazi katika kuboresha huduma na bila shaka utaendelea kupata huduma zetu zilizo bora karibu nikuhudumie AhsanteS,neutral,positive
+sw_test_00379,Tembelea tawi letu karibu nawe au tupigie kupitia namba 0800780111 tuweze kukusaidia,neutral,positive
+sw_test_00382,   Tulale tukilitafakari hili Jambo la umoja wa kitaifa Ila wenzangu mkipata nafasi ya kuketi pamoja na waflme hukomsijisa,neutral,negative
+sw_test_00383,   Museveni aliwahi kushikiliwa katika Gereza la Ukonga Dar es Salaam kwa wiki mbili mpaka,neutral,negative
+sw_test_00385,Laini ni bureyawezekana hiyo buku uliyotoa walikuwekea vocha kwa sababu ukipewa laini lazima uweke salio ili waiwezeshe kwa salio iwe hewani,positive,negative
+sw_test_00389,   Hello MwanzaNew service in townThe most Mobile MessengerTuma chochotepopote pale na utaletewa ulipoContacts http,positive,neutral
+sw_test_00392,   Chuki humchoma anayeihifadhi Usiweke chuki moyoni mwako itakuumiza wewe mwenyewe,positive,negative
+sw_test_00396,Ntamjibu bimkubwa ntake radhi wale huwa ni wadogo zangu ila Sasa huyu ndo Wife mwenyewe,positive,negative
+sw_test_00398,   Mpaka kufikia sasa asilimia 43 ya Watanzania wanapata mtandao wa intaneti Tunapoanza muongo mpya 20202030 tujenge ma,neutral,positive
+sw_test_00399,   Hivyo ni vyema kujua kuhusu hili pia,neutral,positive
+sw_test_00400,   Sure mkubwa Na ukihitaji followers uwe na cha maana cha kuTweet Nipo humu mwaka wa 11 n,neutral,negative
+sw_test_00401,Habari Pole kwa changamoto hiyo tafadhali fahamu tumekwishaondoa ujumbe huo,positive,neutral
+sw_test_00403,   Leo Mechi Nyingi Sana Zinapatikana Premier Bet Nina Slip 2 Ya Mchanganyiko Na Normal  Frame 1 Mchanganyiko Odds 13,neutral,positive
+sw_test_00405,utapendezesha namna unavyoitumia Twitter Kuna mengi utajifunza hutajutia,positive,neutral
+sw_test_00411,   Ujinga wangu ndio ulionipa mafanikio,positive,negative
+sw_test_00412,NECTA yatangaza matokeo ya kidato cha nne 2018 Shule binafsi zazidi kutikisa gtgtgt,positive,negative
+sw_test_00413,Habari ndugu mtejaAhsante kwa kuwasiliana nasiTafadhali tunaomba kujua ufafanuzi wa tatizo lako kuhusiana na vifurushi vyetu kwa msaada zaidiAhsanteLLM,positive,neutral
+sw_test_00414,Mwasiti Sam Misago hana hadhi ya kutembea na mimi,positive,negative
+sw_test_00415,   Rais na Amiri Jeshi Mkuu Dkt akiwa katika picha na CDF Jenerali Venance Mabeyo Naibu Spika Tulia Ackson,neutral,negative
+sw_test_00416, sawa Ila kabla hujatuletea sisi Muulize DMO akupe sababu za hali hiyo,neutral,negative
+sw_test_00419,   Mnakumbuka kipindi Jerry Tegeta alipokuwa akitupa raha Stars na Yanga ni kama leo Alikiba anavyotuburudish,positive,neutral
+sw_test_00420,   Manunuzi yote ya umma yanafanywa na Mamlaka ya Udhibiti na manunuzi ya ummaPPRA kwa mujibu wa kifungu cha 642c cha She,positive,neutral
+sw_test_00421,Me na faili za hospital tu,neutral,negative
+sw_test_00423,   Kwa hedhi salama yenye afya na ya kupunguza maumivu usisite kuchukua,neutral,positive
+sw_test_00424,Sindio nyie mkipostiwa chakula mnalalamika mna njaa roho zina waumaleo hazitouma nipost,neutral,negative
+sw_test_00426,   Wanawake wenzangu Huyu ndo Rais tunapaswa kwenda Naye na Kumuunga Mkono vifo vya Wanawake Vimepungua kutokana na Jitiha,positive,negative
+sw_test_00429,Habari Ahsante kwa kuwasiliana nasi Tunaomba kufahamu sehemu ya tatizolako kwa msaada zaidi Ahsante AT,neutral,positive
+sw_test_00430,   unalipa school bus kumuepusha na adha ya usafiri na huko kwenye school bus anakutana nayo,neutral,negative
+sw_test_00431,   Barabara ya Bibi Titi ni maarufu kuliko kiongozi wetu Shupavu Bibi Titi Mohhamed  Naomba nikujuze kuwa Bibi Titi alikuwa m,positive,neutral
+sw_test_00433,   Hawa ndiyo vijana waliokuwa na ushawishi zaidi mwaka 2019 Mwaka huu zitakuja sura zingine au watendelea kuongeza ushawi,neutral,positive
+sw_test_00434,Rais wa Jamhuri ya Muungano wa Tanzania Dkt John Pombe Magufuli akiwa na mkewe Mama Janeth Magufuli pamoja na Waziri wa TAMISEMI Tawala za Mikoa na Serikali za Mitaa Selemani Jafo Waziri wa Afya,neutral,positive
+sw_test_00436,Inatakiwa umeze tena maana inakuwa haijawa haijachkuliwa na mwiliAbsorbed Kitu cha kuwa makini ni kuwa baada ya kumeza p2 unaweza kuisi uchovu na mwili kuchoka hata ukasinzia Usimeze haliyakuwa unaendesha gari or unafanya kazi kwenye mashine,neutral,negative
+sw_test_00437,   represent wazawa unit mpunguzi Dodoma naomba kibabe ngoma ya izidi kupanda chat kwe,positive,negative
+sw_test_00438,Hapa shangazi unanichanganyasawa ni travel document lakini si inatumika kutambua mtu katoka nchi gani kumiliki passport ya Tanzania maana yake we si mtanzaniaau me ndo sielewi,neutral,negative
+sw_test_00439,Habari Ahsante kwa kuwasiliana nasi tunaomba kufahamu tatizo bado linaendelea GL,neutral,positive
+sw_test_00442,   Tazama mshindi wa pili alivyokabidhiwa tuzo yake kwenye usiku wa tuzo kwa kampuni bora 100 za mitaji ya k,positive,neutral
+sw_test_00447,   PATA BATI MPYA ZA MSOUTH KWA BEI CHEE Zinapatikana Zenye Gauge 28 Futi 4 Bei Nafuu 7000 tu kwa Pisi Location Dar e,neutral,positive
+sw_test_00449,   Kama watu wanapata Shahada za heshima kwanini leo sisi tusimtunuku ndugu yetu kaka yangu Degree ya heshi,neutral,negative
+sw_test_00451,   Kama bodi na menejimenti ya pamoja na wafanyakazi wa wataturudisha kule kulikotoka itakuwa ni aibu Mjue,negative,neutral
+sw_test_00452,   MVP wa 2019 Baraka Sadick ateuliwa kwenda Nairobi Kenya ,neutral,positive
+sw_test_00454,   Unaweza kushiriki katika mjadala wa mchango wa azaki katika kufanikisha sera ya maendeleo ya vijana taifa na baraza la vija,neutral,positive
+sw_test_00456,Anatema madini halafu nampenda anaongea ukweli wa uhalisia wa maisha yetu sio ma theory tu kwenye vitabu,positive,negative
+sw_test_00460,Nchi ya Tanzania imeshika nafasi ya 147 katika viwango vya ubora vya ambapo Nchi,neutral,positive
+sw_test_00464,   SHAFFIH DAUDA  ni mtu na Nusu Mwamba kabisa UZI Nikiwa chuoni UDOM Ba Economics 2016 wakati n,positive,negative
+sw_test_00466,Habari EliasGharama ni shilingi 3500 kwa kiasi hicho JB,positive,neutral
+sw_test_00467,   When the killers wakianza kuwindwa ili wauwawe ndio akili zita wakaa sawa Hii ni aibu kwa taifa letu,negative,neutral
+sw_test_00470,   TIGO PESA KWENDA CRDB BONYEZA 1 15000 2 HUDUMA FEDHA 3 TIGO PESA KWENDA BANKI 4 CHAGUA CRDB 5 INGIZA NAMBA YA K,positive,neutral
+sw_test_00471,Habari unaweza ukatupatia namba yako DM tukupatie maelezo ya kutosha kuhusu huduma hiiKA,positive,neutral
+sw_test_00474,   4 Anne Kilango tulikua tumetulia sana ila baada ya gesi na mafuta kugundulika wanataka tuvurugane wachukue vil,negative,positive
+sw_test_00475,Sio kila event ni showcasepia inategemea na aina ya biashara unayoifanyautachukua banda la vinywaji kufanya showcasetupo kwenye events kutengeneza faida,neutral,negative
+sw_test_00481,   Furaha ukufanya uridhike upenda na uthamini ulichonacho,neutral,positive
+sw_test_00483,   Huu ndio ukweli ambao kuna watu hawataki kuufahamu hivi jimbo likishakuwa la CCM hakuna sababu y,neutral,negative
+sw_test_00485,   Ukidhulumu Mali za Yatima Dhulumu na Kaburi kabisa,neutral,negative
+sw_test_00487,Fuatilia mashindano haya ya Golf Sony Open In Hawaii yatakayoruka Live kupitia SS1 kuanzia saa 9 alfajiri,positive,neutral
+sw_test_00488,Baraza la Mitihani Tanzania  NECTA limefuta matokeo ya mtihani wa kumaliza elimu ya msingi uliofanyika kwa baadhi ya shule ambazo zimebainika kufanya udanganyifu kwa kuwapatia majibu ya mitihani watahiniwa Soma zaidi gtgt,negative,positive
+sw_test_00490,Pia unaweza tembelea kufahamu zaidi kuhusu huduma hiyo Gift,neutral,positive
+sw_test_00491,   Changamoto katika uendeshaji wa mashauri ya watoto Baadhi ya Mahakimu kutokuzingatia utaratibu ulioanishwa kisheria kwenye kuch,negative,neutral
+sw_test_00492,Hapanakitambulisho cha kusajilia ni cha Taifa tu,positive,negative
+sw_test_00493,   Liverpool inahitaji alama moja tu kufuzu 16 Bora za Mabinga wa ulaya UEFA Mapema usiku 2055 wanakipiga ugenini kwa Reb bul,neutral,positive
+sw_test_00495,   Utabiri wa Hali ya Hewa wa siku tano na athari zinazoweza kutokea Umetolewa leo tarehe 22082019 na Mamlaka ya Hali ya,positive,negative
+sw_test_00496,Shukran zangu za dhati zimfikie Dokta Hameer Dk Somgal na Dk Philip Adebayo dokta wangu wa sasa wauguzi na wafanyakazi wote wa Hospitali ya Agha Khan Juu ya yote namshukuru Mwenyezi Mungu kwa Baraka Fadhila Neema na ulinzi wake juu yangu imani yangu kwake,positive,negative
+sw_test_00498,Pamoja na jitihada za serikali kuweka mpango wa umeme vijijini REA na kupunguza gharama za kujiunga bado baadhi ya wananchi wanashindwa kuunganishia umeme kutokana na baadhi ya kandarasi za kufunga mtandao,neutral,negative
+sw_test_00501,Hakuna mwanaume aliyechelewa Maisha wala hakuna mwanaume aliyewahi maisha Kila mmoja ana nafasi ya kuwa bora cha msingi ni kupeana heshima na kupeana moyo,positive,negative
+sw_test_00504,Huduma za TigoPesa zimerudi hewani sasa Tunaomba radhi kwa usumbufu uliojitokeza,positive,neutral
+sw_test_00506,   Spika wa Bunge Mh Job Ndugai akimsikiliza Bw Fuad Abri Mkurugenzi wa Kiwanda cha maziwa cha ASAS wakati akitoa maelezo al,neutral,negative
+sw_test_00509,   Katika jamii zilizo nyingi wanaume wanafikiriwa kuwa ndio wenye mamlaka na wanawake ni watu wa kutimiza linalosemwa na wana,negative,positive
+sw_test_00510,   4UBONGO  Husababisha kiharusi  mishipa ya damu kuziba mishipa ya damu kupasuka ndani ya ubongo  kupoteza uwezo wa,neutral,negative
+sw_test_00512,   Huyu shahidi anatatupa tafsiri ya haraka haraka ya gharama za kujihusisha na siasa za upinzani Tanzania inatisha kwakweli,negative,neutral
+sw_test_00515,   Bwana ndiye Mchungaji wangu Zaburi 23 Bwana ndiye Mchungaji na kiongoZi wetu WaTZ atuongoze kuishinda minyororo,positive,neutral
+sw_test_00516,Kwa upande wa Brescia watakuwa wakichuana na Lazio na mechi kupigwa Saa 8 mchana Usikose kutazama mechi hii Live saa 8 kupitia SS8 kwa kifurushi cha Family 29000 tu,neutral,positive
+sw_test_00517,   Tutasimama nao kwa lolote Wote tumekubaliana kwamba Kuna chombo kimoja tu katika Dunia kinachoweza k,neutral,negative
+sw_test_00519,Habari Andrew tunapenda kukufahamisha kuwa tuna vifurushi vya gharama ujazo na muda tofauti kulingana na matumizi ya mteja bonyeza 14901 au 14903 kisha chagua kifurushi kulingana na matumizi yako AT,positive,neutral
+sw_test_00521,   Hali mbaya mpaka leo nimeona mbu anauma boga lilopikwa eeeh,neutral,negative
+sw_test_00525,Ndiyo tuna akaunti za akiba na muda maalumje unahitaji kufungua ipiNasra,positive,neutral
+sw_test_00528,   Utulivu wa akilini kuepuka papara stress unaweza kua na hekima lakini stress zikakuondolea u,positive,neutral
+sw_test_00530,Golden Gloves ni pambano litakalo mkutanisha Nicholas Radley na Rowan Campbell katika ulingo mmoja Je nani kutwa ubingwa Usikose kutazama pambano hili Live kupitia SS6 kwa kifurushi Compact Plus 84000 tu,neutral,negative
+sw_test_00531,   Kuna mikoa wahudumu wamefanya tip ni haki yao ya msingi tena kwa huduma mbovuuuu tupate tuu katiba mpya aisee,negative,neutral
+sw_test_00532,   Tundu alituhadhari ZAMANI sana kuhusu UKABILA na unavyotumiwa Awamu hiiAkapigwa RISASI Na mtu yeyote anayelalamika kuhu,negative,neutral
+sw_test_00533,   Wasichojua hatuwez kutatua tatizo kwa kujifanya halipo Asichojua yy mwnywe kashiriki kutangaza tatizo,positive,neutral
+sw_test_00534,Serikali ya kijiji Cha Shilungule kilichopo katika Kata ya Busanda mkoani hapa akiwemo Mwenyekiti wa kijiji hicho Bw Mkwavi Samwel wamesimamishwa kazi kwa muda kwa tuhuma za ubadhirifu wa fedha za UMMA,negative,neutral
+sw_test_00535,   Wadau wa Sera zinazonufaisha Wananchi wapo kwenye maonyesho ya kazi za Asasi za Kiraia https,neutral,positive
+sw_test_00536,   Leo Oktoba 3 ndio siku ya uteuzi wa Waandikishaji wa Wapiga kura,positive,neutral
+sw_test_00540,Maana halisi ya rudi nyumbani kumenoga,positive,neutral
+sw_test_00541,Habari Ahsante kwa kuwasiliana nasi Tunaomba kukufahamisha kuwa fidia ilitolewa kwa wateja ambao walijiunga na vifurushi na kushindwa kuvitumia kwa siku husika Ahsante JL,neutral,positive
+sw_test_00542,   Kaimu Mkurugenzi wa Uendeshaji wa Shirika la Reli Tanzania TRC Focus Sahani akizungumza na waandishi wa haari jijini Dare,neutral,positive
+sw_test_00543,   Mhe Pazi Maginga MwKiti wa Chama Cha Mapinduzi CCM Kata ya Kisarawe ametoa mchango wa Tsh Milioni 3 kampeni ya TOK,positive,neutral
+sw_test_00545,   Kheri ya kuzaliwa Tito Magoti endelea baki imara,positive,neutral
+sw_test_00547,Hizi picha nimetaka kutolewa roho status WhatsAppwabongo mnapenda sana shughuli ila ntawasurprise,neutral,negative
+sw_test_00550,   Kunawa sio wakati wa kula tutujiwekee taratibu za kunawa kila wakati,positive,neutral
+sw_test_00553,TPRI imebaini kuwepo kwa viuatilifu feki katika maduka mbalimbali nchini kutokana na kuongezeka kwa uingizwaji kinyemela wa viuatilifu kupitia mipaka ya nchi za Kenya na Tanzania,negative,neutral
+sw_test_00556, Maisha ni safarimafanikio yapo kwenye kilima,positive,negative
+sw_test_00557,   Tembelea banda la kwenye maonesho ya,neutral,positive
+sw_test_00558,   TWITTER ni kama Kijiji chenye watu wachache wenye tabia tofauti Tafuta mtaa unaona unakufaa kuishi Jifunze kuheshimu,neutral,negative
+sw_test_00559,   616 Safari yetu ikaendelea zaidi huku kila mmoja wetu akiwa na shauku ya kuona mambo zaidi ndani ya Msitu wa Pugu ulio sh,positive,neutral
+sw_test_00560,Kuna siku nilikuwa kwako nikawa nakwepa flash changamoto kuna watu tuna mikataba na brand za vinywaji vinginewao wanapost tu,neutral,negative
+sw_test_00562,   Leo Ndugu Amekimbia Umbali Wa Zaidi Ya Km20 Anatumia Viatu Kutoka Kwetu Tuwasiliane 255752864442 Whatss,neutral,positive
+sw_test_00563,Picha na Anerlisa wa Ben Pol zazua gumzo mitandaoni,negative,neutral
+sw_test_00564,NUKUU Mfanyabiashara msikubali kutoa rushwa kwa chombo chochote kwa lengo la kutaka kazi zako zifanywe kwa haraka Kuna umuhimu ya kupitia mapitio yenu katika sekta mbalimbali ili kusaidia kujenga mazingira mazuri Waziri Mkuu Kassim Majaliwa,neutral,positive
+sw_test_00565,   Mla nawe hafi nawe ila mzaliwa nawe,positive,negative
+sw_test_00566,   Wa geita play kibao cha profesa jay ni mtazamo burudani kwa Goligota Magabe Luc,neutral,negative
+sw_test_00570,Mimi Sasa Hivi nafikisha Mwaka Wa Pili Sijui Ladha Ya Soda Wala Juice Ya Kopo ambayo Sio Fresh,positive,negative
+sw_test_00574,Habari Ramadhan Chuma Ahsante kwa kuwasilian nasiTunapenda kukufahamisha kwamba ili kujiunga na kifurushi cha meseji bonyeza 14901 kisha chagua namba 3 nunua bando kisha chagua namba 6 SMS ili kujiunganmisha na kifurushiAhsante J,neutral,positive
+sw_test_00576,Nalalamika baridi wenyeji chuga wanadai msimu wa joto huume natimiza jukumu langu la kuwakumbusha kutumia kondomu,neutral,negative
+sw_test_00577,Wizara ya kilimo nchini Kenya imebaini harasa ya Ksh 32 Milioni kutokana na upotevuuharibifu wa zao la mahindi nchini humo kwa 12 mwaka 2016 Upotevu huo umeripotiwa kuchangiwa na ukame wa muda mrefu na uvamizi wa viwa vijeshi ktk maeneo ya kaskazini mwa Kenya,negative,neutral
+sw_test_00578,   Akauti 25 za kufollow Twitter Tanzania Oktoba  Disemba 2021,neutral,negative
+sw_test_00580,   Katibu Mtendaji wa Tume ya Vyuo Vikuu nchini TCU Prof Charles Kihampa akitangaza kufutiwa usajili kwa baadhi ya vyuo vikuu,negative,neutral
+sw_test_00582,unaweza pia ukajiunga na vifurushi mbalimbali tafadhali piga 14700 au 14800 kisha chagua zaizi yako ili kuweza kujiunga na vifurushi kulingana na matumizi yako,positive,neutral
+sw_test_00592,Hassani Mwakinyo kanipigie Mtu August 14 na asichukue mda mrefu kama tetemeko la August 12 Inshallah,neutral,negative
+sw_test_00593,   Dkt Grace ametoa pongezi hizo wakati wa ziara ya usimamizi shirikishi na wataalam kutoka Ofisi ya Rais TAMISEMI Wizara,neutral,positive
+sw_test_00596,   Aali hupatikana kwa ghali mtaka jema sharti adhurike Maanaili kupata kitu kizuri ama kufanikisha jambo zuri hatuna budi,positive,neutral
+sw_test_00598,   lazima ulowe jasho la uoga Konda atakupitiliza hadi mwisho wa trip,neutral,negative
+sw_test_00601,Kwenye leo atasikika na atazungumzia biashara zake  Tuambie kwa upande wako,neutral,positive
+sw_test_00603,Tunaifanyia kazipole sana mteja wetu,neutral,positive
+sw_test_00607,   JeUmeshajisajili Kuweza Kushiriki itakayofanyika Dodoma tarehe 23 hadi 28 Basi bado Hujachelewa Jisajili,neutral,negative
+sw_test_00608,UHURU MICHEZOHT Singida United 00 Bandari FC,positive,neutral
+sw_test_00611,   Pata burger nzuri the best in town tupo Engen Petrol Station Mbezi Beach,positive,neutral
+sw_test_00612,Hakuna vikwazo tena wakimbizi kurudi kwao gt,positive,negative
+sw_test_00613,   Kuelekea Mkutano Mkuu wa Wataalam wa Maendeleo ya Jamii nchini wataalam hao watashiriki zoezi la kuamsha Ari katika sh,neutral,positive
+sw_test_00615,Ya kifurushi cha Dstv Compact mwezi mmoja bure pamoja na ufundi buireGift,positive,neutral
+sw_test_00616,   Mungu awapiganie na kuwa,neutral,positive
+sw_test_00617,Tumieni kituo kipya cha redio ya Jamii cha TBC 921 kutangaza kazi zenu za sanaa ikiwemo muzikiDkt Mwakyembe,positive,negative
+sw_test_00620,Kunawa mikono na maji tiririka mara kwa mara bado ni njia effective ya kupambana na magonjwa ya mlipuko ikiwemo Uviko 19 Huu utamaduni ni wa kutunza uwe endelevu,positive,negative
+sw_test_00622,Serikali imeingia makubaliano rasmi ya mkataba wa ujenzi wa Meli mpya Chelezo na ukarabati wa Meli za MV Victoria na MV Butiama katika ziwa Victoria na kampuni nne kutoka Korea Kusini mkataba ambao una thamani ya Shilingi Bilioni 152,neutral,positive
+sw_test_00623,   Sehemu ya wananchi waliokusanyika uwanja wa Kumbukumbu ya Sheikh Amri Abeid jijini Arusha kumsikiliza Dkt htt,neutral,positive
+sw_test_00624,Account Ya instagram au Twitter Huwezi Kuirudisha hewani kama Umeshau Vitu hivi Sign up Email na password Sign up Phone number,neutral,positive
+sw_test_00627, SIRI YA UGANDA KUIPIKU KENYA NA TANZANIA KATIKA UZALISHAJI WA MAZIWA AFRIKA MASHARIKI Soma hapa,positive,neutral
+sw_test_00628,Wimbledon Kumenoga Rafael Nadal vs Roger Federer Novak Djockovic vs Roberto Bautista Hapatoshi kwenye Tennis wababe wawili wakimenyana Hapa Federer pale Nadal Nani ataibuka kidedea Cheza ushinde kiulaini,positive,neutral
+sw_test_00632,   Kuna kampuni ilikuwepo bongo ilikuwa inaitwa JUMIA moja kati ya biashara zao ilikuwa app inaokuruhusu uagize chakula popote u,neutral,negative
+sw_test_00635,Wewe umekula sana fimbo zisizokuhusu,neutral,positive
+sw_test_00636,Habari Ahsante kwa uvumilivu wako pole sana kwa changamoto uliyoipata Huduma ya internet sasa imerejea Tunaendelea kuomba radhi kwa usumbufu uliopata Ahsante kwa kuchagua Vodacom LL,neutral,positive
+sw_test_00637,Kikosi cha kuleta ubingwa Msimbazi kwa mara ya tano mfululizo,neutral,positive
+sw_test_00638,uwttaifa WAANDAA KONGAMANO LA KUMPONGEZA RAIS DK MAGUFULI KWA KUITEKELEZA ILANI YA CCM NA KUTIMIZA MIAKA MITATU MADARAKANI Umoja wa Wanawake Tanzania chini ya Mwenyekiti wake Taifa,positive,negative
+sw_test_00641,Ijumaa Kareem Pata Mawaidha na Mafunzo ya Dini ya Kiislam kupitia Islam Chanel DStv namba 347 kifurushi DStv Bomba sh 19000tu,neutral,positive
+sw_test_00650,   Ni Muda Wako Sasa Kujiingizia Kipato Kupitia Akaunti zako za Facebook Twitter na Insta Unachotakiwa ni Ku Download App ya,positive,neutral
+sw_test_00653,   Ujio wa ARV zinatufanya tujisahau siku hizi hata mitaani kwetu kukutana na HIV  aliyedhoofu Sana kiafya Ni,neutral,negative
+sw_test_00657,Mkopo wa Fedha Thamani ya Nyumba via,neutral,positive
+sw_test_00663,   Tuombee uzima mwez uliopita nilikuwa nyumbani Kwala na kwa Bahati nzuri alipita Mh Mbunge Japho nilibatika kuon,neutral,negative
+sw_test_00669,   Mwaka huu 2018 ninaendelea na wa watu maalummuhimu kuwafolo Rachael Akidi  ni mkuu wa lugha za Afrika,positive,negative
+sw_test_00672,   Mahojiano yangu na Azam TV katika Kipindi cha Mizani ya Wiki Mageuzi ndani ya Chama cha Mapinduzi,neutral,positive
+sw_test_00673,   Juma Hamad Omari Mbunge wa Jimbo la Ole Wilaya ya Chakechake Mkoa wa Kusini Pemba Zanzibar kwa tiketi ya Chama cha Wa,neutral,positive
+sw_test_00674,   Matarajio ya hali ya hewa saa24 zijazo kuanzia saa 3 usiku wa Leo 27052018,positive,neutral
+sw_test_00676, wa Tuepuke Kupeana mikono na kukumbatiana,neutral,positive
+sw_test_00677,Ilikuwa Interview Bomba kabisa kudos kwako na Mendez,positive,negative
+sw_test_00679,Uwanja wa Nelson Mandela mjini Sumbawanga umeungua usiku wa kuamkia leo,negative,positive
+sw_test_00681,Utahitaji kima cha shilingi elf 10000 pekee kufungulia akaunti,positive,neutral
+sw_test_00682,Mitandao ya kijamii Ukiwa una Moyo mdogo Kama Remote ya AC ya Samsung Basi jiandae Kuwa Mtu wa kukosa amani,neutral,negative
+sw_test_00683, Premier ya DANGA leo moja na nusu usiku  On DSTV Camp ,neutral,positive
+sw_test_00687,Je wajua Kwa mujibu wa tafiti Uvivu ni ishara moja wapo ya mtu kuwa na akili Hii ni kwasababu ya Ubunifu Wao,positive,neutral
+sw_test_00689,   Wapo waliopotea bila kujulikana walipo kama vile Ben SaananeAzory Gwanda na Mkitii wa Halmashauri ya KibondoSmoni Kangoye,negative,neutral
+sw_test_00691,Karibu tunakutakia usiku mwemaPJ,neutral,positive
+sw_test_00693,   Mambo Haya Ndo Alikua Hatak Manara Dada Babra Kahusikaje kwenye Iyo Picha Ila wamesahau na Mo Hapo ,negative,neutral
+sw_test_00700,Nimepokea Certificate of Appreciation kutoka kwa wanna kijiji wa Kizimkazi jimbo la Makunduchi,positive,negative
+sw_test_00702,Unajifanya upo romantic unajaribu kuoga na babe kwa kutumia ndoo unateleza bafuni unaipiga teke ndoo maji yote yanamwagika ,negative,neutral
+sw_test_00705,Beyonce ameachia albamu ya kusisimua ambayo imebeba maudhui yanayoendana na ya Disney inayoitwa The Lion King The Gift ambayo inapatikana ndani ya Boomplay Zaidi bofya,neutral,negative
+sw_test_00707,Ofa ya saba saba itaisha tarehe 3072019,neutral,positive
+sw_test_00710,Waziri wa maendeleo ya mifugo na uvuvi Luhaga Mpina amewapa miezi sita wakurugenzi wa halmashauri zote nchini kuhakikisha wanakamilisha ukarabati wa majosho ya kuogeshea mifugo ambayo yanapatikana,neutral,positive
+sw_test_00712,   Nilivyokuwa mdogo baba yangu alikuwa akitoka kazini ananiambia unaweza kuniandikia kitu nifurahi sasa hivi nina vitabu,positive,negative
+sw_test_00713,Habari  Hapana Nmb tunatumia SWIFT code ambayo ni NMIBTZTZ,positive,neutral
+sw_test_00717,   vigogo wawili Elimu wasimamishwa Bunge lapitisha Sh13 trilioni via,negative,neutral
+sw_test_00718,   Tusiogope kujaribu kufanya jambo ambalo unahisi lina manufaa kwako au kwa mtuwatu fulani,neutral,negative
+sw_test_00720,   Serikali imeamua kuwa vipimo kwa ajili ya homa ya Dengue vitatolewa BURE kwenye vituo vya kutolea vya kutolea huduma,positive,neutral
+sw_test_00722,   Arushaaaaa We here today Sijui nimuachie achane tena na leo sema Wa  Ara wanaweza mrushia maji akianza ki,neutral,negative
+sw_test_00725,Makamu Mkuu wa Shule hiyo iliyopo Wilaya ya Ikungi Raphael Malan ameagiza wanafunzi 212 wanaotarajiwa kuanza kidato cha kwanza shuleni hapo kuripoti wakiwa na viti ndoo ndogo na vigoda Amedai shule hiyo inakabiliwa na upungufu wa madawati 392,positive,neutral
+sw_test_00726,   Kuna jamaa zetu wao kutumia ndomu wanaona ni ulemavu Waaambie litawakuta jambo,neutral,negative
+sw_test_00730,   SABABU INAYOFANYA MTU AJIUMIZE AU KUUMIZA WATU WENGINE NI UKOSEFU WA MAARIFA UNAWARENESS,positive,negative
+sw_test_00734,Kigango cha Mlimani wilayani Chato chapandishwa hadhi na kuwa Parokia Teule ya Mlimani,positive,negative
+sw_test_00737,sahihi kabisa lazima tuonyeshe hali ya kuheshimu jitihada,positive,neutral
+sw_test_00744,   Ukifundisha mwanaume kilimofamilia yake itashiba Ukimfumdisha mwanamke kilimojamii yake itashiba Tayari,positive,negative
+sw_test_00746,Waziri wa Madini Mhe Dotto Biteko leo Februari 08 2019 amekutana na Watendaji na Watumishi wa Tume ya Madini makao makuu Dodoma ambapo ameitaka Tume hiyo kufufua Vituo vya ukaguzi wa Madini ya,neutral,positive
+sw_test_00748,Habari David namba yako bado haijakamilishwa usajili kwa vidole Tafadhali tembelea maduka yetu ya Airtel na kitambulisho cha taifaJuma,positive,neutral
