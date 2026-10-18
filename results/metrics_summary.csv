@@ -1,0 +1,4 @@
+model_name,accuracy,macro_f1,weighted_f1,precision_macro,recall_macro,macro_f1_std,train_time_s,notes
+Majority class (always neutral),0.5936,0.2483,0.4422,0.1979,0.3333,,0.0,no learning
+Random by class frequency,0.4358,0.3213,0.4357,0.3211,0.3217,,0.0,no learning
+TF-IDF + LogReg,0.5802,0.4829,0.5737,0.5044,0.4723,,0.6,"features=word+char, C=1.0, class_weight=balanced"
