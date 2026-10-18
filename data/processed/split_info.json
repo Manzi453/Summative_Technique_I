@@ -1,0 +1,30 @@
+{
+  "labels": [
+    "negative",
+    "neutral",
+    "positive"
+  ],
+  "sizes": {
+    "train": 1810,
+    "val": 453,
+    "test": 748
+  },
+  "class_counts": {
+    "train": {
+      "negative": 191,
+      "neutral": 1072,
+      "positive": 547
+    },
+    "val": {
+      "negative": 48,
+      "neutral": 268,
+      "positive": 137
+    },
+    "test": {
+      "negative": 80,
+      "neutral": 444,
+      "positive": 224
+    }
+  },
+  "source": "https://github.com/afrisenti-semeval/afrisent-semeval-2023 (Subtask A, Swahili)"
+}
