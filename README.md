@@ -7,7 +7,7 @@ Classifying Swahili tweets as positive, neutral or negative with reference basel
 | Live app | https://summativetechniquei-x6jtcsn5dkzcft2gnskyjx.streamlit.app |
 | Fine-tuned model (Hugging Face) | https://huggingface.co/453ivan/swahili-sentiment-afrisenti |
 | Code and results (this repository) | https://github.com/Manzi453/Summative_Technique_I |
-| Demo video | FILL: link after upload |
+| Demo video | https://www.awesomescreenshot.com/video/57562961?key=2702f4389ab7cfd57daca6e03e6e940e |
 | Final report | `report_and_script/Swahili_Sentiment_Report.docx` |
 
 ## 1. Problem
