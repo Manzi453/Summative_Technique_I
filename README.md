@@ -100,11 +100,8 @@ Existing resources: the AfriSenti dataset, the pretrained models `castorini/afri
 
 Implemented here: data checks and cleaning, reference and TF-IDF baselines, the BiLSTM, the multi-seed fine-tuning pipeline, bootstrap evaluation, error analysis, and the Streamlit web app.
 
-## 9. Use of AI tools
 
-Claude (Anthropic) was used as an assistant for writing and debugging notebook and app code and for drafting this README and the report. The experiment notebooks were run by the project author on a laptop (Apple M2, 8 GB) in VS Code, and the results in this repository come from those runs.
-
-## 10. References
+## 9. References
 
 - Muhammad, S. H., Abdulmumin, I., Ayele, A. A., et al. (2023). AfriSenti: A Twitter sentiment analysis benchmark for African languages. *EMNLP 2023*. https://aclanthology.org/2023.emnlp-main.862
 - Muhammad, S. H., Abdulmumin, I., Yimam, S. M., et al. (2023). SemEval-2023 Task 12: Sentiment analysis for African languages (AfriSenti-SemEval). arXiv:2304.06845.
